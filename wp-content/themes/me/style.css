@@ -379,12 +379,12 @@ Structure and Layout
 .site-container {
   position: relative;
   margin: 0px auto;
-  width: 600px;
+  width: 960px;
 }
 
 .wrap {
   margin: 0 auto;
-  max-width: 620px;
+  max-width: 980px;
 }
 
 .site-inner { 

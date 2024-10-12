@@ -379,18 +379,18 @@ Structure and Layout
 .site-container {
   position: relative;
   margin: 0px auto;
-  width: 1200px;
+  width: 600px;
 }
 
 .wrap {
   margin: 0 auto;
-  max-width: 980px;
+  max-width: 620px;
 }
 
 .site-inner { 
   float: right;
   padding: 50px 0px;
-  width: 1200px;
+  width: 600px;
   min-height: 640px;
 }
 
